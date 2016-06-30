@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>less is more</title>
-  <subtitle>一个喜欢上网的不靠谱医学生</subtitle>
+  <title>一个人的Blog</title>
+  <subtitle>康复医学生/手机摄影人</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -9,7 +9,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Heei</name>
+    <name>等待布洛克</name>
     
   </author>
   
